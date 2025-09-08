@@ -36,11 +36,8 @@ See the full reference list at the end of the notebook, covering:
 - Open-source repos and tutorials used for guidance
 
 
+
 Notes:
-This notebook was developed as part of CS6482: Deep Reinforcement Learning coursework.
-
-It executes fully without errors and is structured with clear sections for reproducibility.
-
-yaml
-Copy code
+- This notebook was developed as part of CS6482: Deep Reinforcement Learning coursework.
+- It executes fully without errors and is structured with clear sections for reproducibility.
 
