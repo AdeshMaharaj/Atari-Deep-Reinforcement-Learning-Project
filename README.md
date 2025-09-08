@@ -39,5 +39,5 @@ See the full reference list at the end of the notebook, covering:
 
 Notes:
 - This notebook was developed as part of CS6482: Deep Reinforcement Learning coursework.
-- It executes fully without errors and is structured with clear sections for reproducibility.
+- It executes fully without errors if you update the gymnasium API import as they change regualarly
 
